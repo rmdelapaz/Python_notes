@@ -8,3 +8,5 @@ ended up resolving issue using github desktop app to associate proper git id to 
 test test, had to use other that matched email
 
 Always more to learn.
+
+Will be working more on python soon.
